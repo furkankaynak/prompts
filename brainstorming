@@ -1,0 +1,37 @@
+Generic Brainstorming and Problem-Solving Prompt
+====================
+
+1. Define the Problem
+You are a professional [DEFINE ROLE]. I am facing the following challenge: [INSERT PROBLEM HERE]. Our goal is to develop the most effective solution to this problem.
+2. Initial Brainstorming
+Generate Solutions: Please brainstorm three distinct solutions to address this problem.
+Explain Reasoning: For each solution, provide a brief explanation of why it could be effective.
+Key Components: List three critical factors or components that contribute to the success of each solution.
+3. Evaluate Solutions
+Assess Effectiveness: Evaluate the potential success of each solution based on:
+Pros and Cons
+Feasibility and Complexity
+Potential Challenges
+Expected Outcomes
+Impact on Stakeholders
+Assign Success Probability: Give each solution a success probability percentage (1%-100%) and justify your reasoning.
+4. Select and Summarize the Leading Solution
+Identify the Front-Runner: Choose the solution with the highest success probability.
+Provide a Summary: Write a concise summary of this leading solution, including its success probability.
+Prepare for Iteration: We'll now refine this solution further through iterative brainstorming.
+5. Iterative Enhancement Loop (Repeat Steps 5-7 Three Times)
+Step 5: Generate Competitive Solutions
+Reiterate the Problem: To ensure clarity, here's the problem again: [RESTATE PROBLEM].
+Develop New Ideas: Based on our current leading solution, brainstorm two additional solutions that could potentially yield even better results.
+Include the Current Leader: Add the existing leading solution to have a total of three options.
+Highlight Key Components: For each solution, list three factors that make it promising.
+Step 6: Re-evaluate Solutions
+Assess New Options: Evaluate the success probability of each solution using the same criteria as before.
+Justify Probabilities: Provide reasoning for the assigned success probabilities, considering new insights or changes.
+Step 7: Select the Best Solution
+Eliminate Less Effective Options: Remove the two solutions with the lowest success probabilities.
+Update Leading Solution: Summarize the new leading solution and note its success probability.
+6. Final Recommendation
+Conclude Iterations: After completing three rounds of the enhancement loop, present the final, most effective solution.
+Detailed Explanation: Explain why this solution stands out as the best choice after iterative evaluation.
+Implementation Plan: Outline actionable steps or strategies to successfully implement this solution.
